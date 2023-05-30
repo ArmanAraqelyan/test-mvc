@@ -21,6 +21,6 @@ class View
                 break;
         }
 
-        require_once __DIR__ . '/../../Templates/template.html';
+        require_once __DIR__ . '/../Templates/template.html';
     }
 }
